@@ -1,0 +1,2 @@
+cat = 1
+rabbit = 2
